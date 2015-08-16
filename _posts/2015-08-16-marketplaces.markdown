@@ -6,18 +6,18 @@ tags: [Stripe, Stripe, Connect, Node]
 categories: [Payment]
 ---
 To build a marketplace in 2015 could be relatively easiser than past.
-Since Stripe(https://stripe.com/) updated the "Stripe Connect" around March,
+Since [Stripe](https://stripe.com/) updated the "Stripe Connect" around March,
 now we can basically allow people accept credit card payment from others
 in few steps with Stripe API.
 
-https://stripe.com/blog/the-new-connect
+[blog link](https://stripe.com/blog/the-new-connect)
 
 Therefore,
 how to build a simple marketplace or online shop ?
 I found some projects on Github quite helpful.
 
 Stripe Shop
-https://github.com/stripe/shop
+[link](https://github.com/stripe/shop)
 This single page shop was created by Stripe; an official example.
  
 From Strip's official documentation, you could see there are always
@@ -26,12 +26,12 @@ four languages: ruby, python, php and node.
 I personally prefer node.js, so I only introduce node projects here:
 
 Stripe Charge Example
-https://github.com/mjhea0/node-stripe-charge
+[link]{https://github.com/mjhea0/node-stripe-charge)
 An example demonstrated how to build a web app with
 user login/registration, admin console, CRUD with mongoDB, REST API.
 
 Stripe Charge Example
-https://gist.github.com/briancollins/6365455
+[link]{https://gist.github.com/briancollins/6365455}
 A nice example, just one page 80 lines HTML file,
 so you can image what you have to do is customized your own CSS style,
 and then put it into the views in your Node applications.
@@ -43,7 +43,7 @@ the essential steps are:
 3. setup a client-side interface no matter in mobile app or website( 5mins ). 
 
 Step 2 is also easy, the node backend is extremely easy:
-https://stripe.com/docs/tutorials/charges
+[doc](https://stripe.com/docs/tutorials/charges)
 
 var stripeToken = request.body.stripeToken;
 
