@@ -36,7 +36,7 @@ user login/registration, admin console, CRUD with mongoDB, REST API.
 
 Stripe Charge Example
 
-[link](https://gist.github.com/briancollins/6365455}
+[link](https://gist.github.com/briancollins/6365455)
 
 A nice example, just one page 80 lines HTML file,
 so you can image what you have to do is customized your own CSS style,
