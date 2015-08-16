@@ -44,9 +44,13 @@ and then put it into the views in your Node applications.
 
 Until now,
 the essential steps are:
+
 1.  setup a strip account and get the API keys ( 5mins )
+
 2. setup a server-side code handling the token from credit cards and charge
+
 3. setup a client-side interface no matter in mobile app or website( 5mins ). 
+
 
 Step 2 is also easy, the node backend is extremely easy:
 [doc](https://stripe.com/docs/tutorials/charges)
