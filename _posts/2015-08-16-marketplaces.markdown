@@ -17,7 +17,9 @@ how to build a simple marketplace or online shop ?
 I found some projects on Github quite helpful.
 
 Stripe Shop
+
 [link](https://github.com/stripe/shop)
+
 This single page shop was created by Stripe; an official example.
  
 From Strip's official documentation, you could see there are always
@@ -26,12 +28,16 @@ four languages: ruby, python, php and node.
 I personally prefer node.js, so I only introduce node projects here:
 
 Stripe Charge Example
-[link]{https://github.com/mjhea0/node-stripe-charge)
+
+[link](https://github.com/mjhea0/node-stripe-charge)
+
 An example demonstrated how to build a web app with
 user login/registration, admin console, CRUD with mongoDB, REST API.
 
 Stripe Charge Example
-[link]{https://gist.github.com/briancollins/6365455}
+
+[link](https://gist.github.com/briancollins/6365455}
+
 A nice example, just one page 80 lines HTML file,
 so you can image what you have to do is customized your own CSS style,
 and then put it into the views in your Node applications.
