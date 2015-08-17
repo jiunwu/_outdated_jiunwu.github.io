@@ -13,6 +13,7 @@ and three views: index, charge and a layout.
 If we added some css styles, e.g. Twitter Bootstrap, 
 then it could already run as a single page shop.
 
+[Demo:http://jiunwu.pythonanywhere.com/](http://jiunwu.pythonanywhere.com/)
 
 Then the next question is about:
 
