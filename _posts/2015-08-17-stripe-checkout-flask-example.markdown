@@ -13,9 +13,6 @@ and three views: index, charge and a layout.
 If we added some css styles, e.g. Twitter Bootstrap, 
 then it could already run as a single page shop.
 
-Let's use a free template theme from shopify:
-
-[Music Ecommerce Website](https://themes.shopify.com/themes/minimal/styles/music)
 
 Then the next question is about:
 
