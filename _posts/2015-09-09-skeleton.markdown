@@ -1,0 +1,18 @@
+---
+published: true
+title: Skeleton
+layout: post
+---
+Another CSS framework
+http://getskeleton.com/
+
+It is very simple and clean
+Just like Tinypress
+
+However I think it is better for Bootstrap
+especially when you just want to build a prototype
+
+
+As Steve Job said
+"simple can be harder than complex"
+
