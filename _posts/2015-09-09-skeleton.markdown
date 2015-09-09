@@ -5,7 +5,7 @@ layout: post
 ---
 Another CSS framework
 
-http://getskeleton.com/
+[website](http://getskeleton.com/)
 
 
 It is very simple and clean
