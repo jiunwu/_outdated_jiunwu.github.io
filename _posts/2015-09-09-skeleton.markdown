@@ -18,3 +18,9 @@ especially when you just want to build a prototype
 As Steve Job said
 
 "simple can be harder than complex"
+
+From here,
+
+together with node/express/passport/ejs/mongodb,
+
+we can create another platform for something.
