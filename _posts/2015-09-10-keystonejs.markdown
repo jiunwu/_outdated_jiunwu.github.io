@@ -13,3 +13,4 @@ mongoose, routes, schema, GET/POST/PUT/DELETE,
 
 we should have something help us do it automatically.
 
+KeystoneJS is very actively developing, it could be an essential tool just like express or mongoose.
