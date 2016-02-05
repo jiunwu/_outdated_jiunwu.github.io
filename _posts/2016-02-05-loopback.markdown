@@ -1,6 +1,6 @@
 ---
 published: true
-title: LoopBack:
+title: LoopBack
 layout: post
 ---
 A node.js Framework for managing RESTful API
