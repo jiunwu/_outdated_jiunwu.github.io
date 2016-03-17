@@ -72,7 +72,7 @@ I tested it in my android app, Stripe android SDK directly charge the payment
 without even the node backend.
 
 With Express, the Stripe Connect codes like these:
-~~~~~~~~
+    
 // charge, Stripe Connect
 app.get('/charge', function(req, res){
     var CONNECTED_STRIPE_ACCOUNT_ID = 'put the id here';
@@ -85,4 +85,4 @@ app.get('/charge', function(req, res){
     }, {stripe_account: CONNECTED_STRIPE_ACCOUNT_ID});
 
 });
-~~~~~~~~
+    
