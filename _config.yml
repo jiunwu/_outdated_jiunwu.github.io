@@ -1,6 +1,6 @@
 excerpt_separator: ""
 pygments: true
-markdown: kramdown
+markdown: KramdownPygments
 url: http://jiunwu.github.io
 title: Jiun Wu
 tagline: Berlin
