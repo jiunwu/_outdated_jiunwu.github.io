@@ -55,6 +55,8 @@ the essential steps are:
 Step 2 is also easy, the node backend is extremely easy:
 [doc](https://stripe.com/docs/tutorials/charges)
 
+```javascript 
+
 var stripeToken = request.body.stripeToken;
 
 var charge = stripe.charges.create({
@@ -68,11 +70,16 @@ var charge = stripe.charges.create({
   }
 });
 
+```
+
+
 I tested it in my android app, Stripe android SDK directly charge the payment
 without even the node backend.
 
 With Express, the Stripe Connect codes like these:
-```javascript
+
+```javascript 
+
 // charge, Stripe Connect
 app.get('/charge', function(req, res){
     var CONNECTED_STRIPE_ACCOUNT_ID = 'put the id here';
@@ -85,4 +92,5 @@ app.get('/charge', function(req, res){
     }, {stripe_account: CONNECTED_STRIPE_ACCOUNT_ID});
 
 });
+
 ```
